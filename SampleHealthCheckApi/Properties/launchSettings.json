@@ -30,7 +30,7 @@
     "Docker": {
       "commandName": "Docker",
       "launchBrowser": true,
-      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/health",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/hc",
       "publishAllPorts": true,
       "useSSL": true
     }
